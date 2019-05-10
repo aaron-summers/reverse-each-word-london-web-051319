@@ -7,6 +7,6 @@ def reverse_each_word(string)
     new_string_array << word.reverse
   end
   
-  return new_string_array.join
+  return new_string_array.join("")
 
 end
