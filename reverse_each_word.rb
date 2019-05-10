@@ -7,8 +7,6 @@ def reverse_each_word(string)
     new_string_array.unshift(char)
   end
   
-  
-  
-  
+  return new_string_array
 
 end
